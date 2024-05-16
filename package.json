@@ -1,0 +1,23 @@
+{
+  "name": "elysia-api-starter",
+  "author": {
+    "name": "Aryan Maurya",
+   
+    "url": "amsrportfolio.netlify.app"
+  },
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bun run index.ts",
+    "dev": "bun run --watch index.ts"
+  },
+  "dependencies": {
+    "elysia": "^0.7.16",
+    "jose": "^4.15.4",
+    "mongoose": "^7.4.5",
+    "picocolors": "^1.0.0"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "module": "index.ts"
+}
