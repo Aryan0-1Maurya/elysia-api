@@ -154,4 +154,4 @@ This project is licensed under the [MIT] License
 
 ## Contact
 
-If you have any questions or need further assistance, you can reach us at [Mehedi Hasan](fb.com/promehedi).
+If you have any questions or need further assistance, you can reach us at [Aryan Maurya](https://amsrportfolio.netlify.app/contact).
